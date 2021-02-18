@@ -122,7 +122,7 @@ git commit -m "init"
 git push --set-upstream origin myblog
 ```
 
-### 0x04 配置github actions 自动化部署blog
+### 0x04 配置actions自动化部署blog
 
 在 hexo源代码的文件夹blog中创建`.github`文件夹，在创建一个子文件夹为`workflows`，在该文件夹下创建一个配置文件`deploy.yml`,目录结构是这样的：`C:\Users\test\Desktop\blog\.github\workflows` ，`deploy.yml`内容如下：
 
