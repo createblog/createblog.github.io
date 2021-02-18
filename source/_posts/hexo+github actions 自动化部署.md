@@ -1,7 +1,7 @@
 ---
 title: hexo+github actions 自动化部署
 date: 2021-02-18 22:16:57
-tags:
+tags: hexo
 ---
 
 ## Hexo + actions 自动化部署blog
@@ -54,7 +54,7 @@ theme: cactus
 
 ### 0x03 Github/Git设置
 
-创建`repositories` 就不说了，名字是这个：`creatblog.github.io`
+创建`repositories`，地址：https://github.com/new ，名字是这个：`creatblog.github.io`
 
 {% asset_img image-20210218224600331.png %}
 
