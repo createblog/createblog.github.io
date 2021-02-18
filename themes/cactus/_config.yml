@@ -18,7 +18,8 @@ nav:
   about: /about/
   articles: /archives/
   projects: projects_url
-
+  Tags: /tags/
+  search: /search/
 
 # Links to your social media accounts.
 # The keys should correspond to Fontawesome icon names
@@ -79,8 +80,8 @@ copyright:
 #   - grayout: whether to enable a hover effect on the logo
 logo:
   enabled: true
-  width: 50
-  height: 50
+  width: 65
+  height: 65
   url: /images/logo.png
   gravatar: false
   grayout: true
